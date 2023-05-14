@@ -2,16 +2,22 @@ BSRP/Library/
 BSRP/Temp/
 BSRP/Logs/
 BSRP/UserSettings/
+BSRP/obj/
+BSRP/.vs/
 
 URP/Library/
 URP/Temp/
 URP/Logs/
 URP/UserSettings/
+URP/obj/
+URP/.vs/
 
 HDRP/Library/
 HDRP/Temp/
 HDRP/Logs/
 HDRP/UserSettings/
+HDRP/obj/
+HDRP/.vs/
 
 *.sln
 *.csproj
